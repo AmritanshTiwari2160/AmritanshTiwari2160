@@ -1,5 +1,11 @@
 ### Hi 👋, I'm Amritansh Tiwari
+### I'm a passionate BTech CSE student at Graphic Era Hill University with a strong interest in technology and coding. 💻 Currently, I'm diving deep into algorithms and programming languages like C++, alongside exploring Full Stack Web Development. 🚀
 
+🌱 I love learning and experimenting with new technologies, from building projects that integrate machine learning to diving into the world of web development frameworks.
+
+🔭 I'm actively honing my skills on platforms like LeetCode and Codeforces, always up for new challenges and problem-solving adventures.
+
+💬 Let's connect and explore the endless possibilities in the world of tech together!
 <!--
 **amritanshtiwari108/amritanshtiwari108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
