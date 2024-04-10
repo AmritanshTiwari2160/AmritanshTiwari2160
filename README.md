@@ -1,5 +1,7 @@
 ### Hi 👋, I'm Amritansh Tiwari
-I'm a passionate BTech CSE student at Graphic Era Hill University with a strong interest in technology and coding. 💻 Currently, I'm diving deep into algorithms and programming languages like C++, alongside exploring Full Stack Web Development. 🚀
+I'm a passionate BTech CSE student at Graphic Era Hill University with a strong interest in technology and coding.
+
+Currently, I'm diving deep into algorithms and programming languages like C++, alongside exploring Full Stack Web Development. 🚀
 
 🌱 I love learning and experimenting with new technologies, from building projects that integrate machine learning to diving into the world of web development frameworks.
 
