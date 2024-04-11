@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Amritansh Tiwari
-I'm a passionate BTech CSE student at Graphic Era Hill University with a strong interest in technology and coding.
+### A Passinate Tech Enthusiast
 
 Currently, I'm diving deep into algorithms and programming languages like C++, alongside exploring Full Stack Web Development. 🚀
 
@@ -8,7 +8,11 @@ Currently, I'm diving deep into algorithms and programming languages like C++, a
 🔭 I'm actively honing my skills on platforms like LeetCode and Codeforces, always up for new challenges and problem-solving adventures.
 
 💬 Let's connect and explore the endless possibilities in the world of tech together!
-![Alt Text]([link_to_your_gif.gif](https://camo.githubusercontent.com/ab9d3b78c3b3bc494c601e9b894ba55b801c1e5d30739f059fee29ee333beaf0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35342f65332f37642f35346533376438303734656263646531643936633737643762326137663331302e676966))
+
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AmritanshTiwari-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amritansh-tiwari-2864a524a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-AmritanshTiwari-yellow?style=flat-square&logo=leetcode)](https://leetcode.com/AmritanshTiwari_108/)
 <!--
 **amritanshtiwari108/amritanshtiwari108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
