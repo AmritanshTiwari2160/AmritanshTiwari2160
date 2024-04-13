@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amritansh Tiwari</h1> 
+<h1 align="center">Hi 👋, I'm Amritansh Tiwari</h1>
 <h3 align="center">A Passionate Tech Enthusiast from India 🌐</h3>
 <img align="right" alt="Coding" Width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
