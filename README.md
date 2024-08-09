@@ -23,10 +23,10 @@
 | Secondary Education (PCM) | Olympus High School, Dehradun | 92.6% | March 21 - Jul 22 |
 | Primary Education | Olympus High School Dehradun | 96.2% | March 19 - March 20 |
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amritanshtiwari108&show_icons=true&locale=en&layout=compact" alt="AmritanshTiwari2160" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmritanshTiwari2160&show_icons=true&locale=en&layout=compact" alt="AmritanshTiwari2160" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amritanshtiwari108&show_icons=true&locale=en" alt="AmritanshTiwari2160" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmritanshTiwari2160&show_icons=true&locale=en" alt="AmritanshTiwari2160" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshtiwari108&" alt="AmritanshTiwari2160" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmritanshTiwari2160&" alt="AmritanshTiwari2160" /></p>
 
 
