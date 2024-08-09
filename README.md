@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Tech Enthusiast from India 🌐</h3>
 <img align="right" alt="Coding" Width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amritanshtiwari108&label=Profile%20views&color=0e75b6&style=flat" alt="amritanshtiwari108" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amritanshtiwari108&label=Profile%20views&color=0e75b6&style=flat" alt="AmritanshTiwari2160" /> </p>
 
 - 📫 How to reach me **amritanshtiwari108@gmail.com**
 
@@ -23,10 +23,10 @@
 | Secondary Education (PCM) | Olympus High School, Dehradun | 92.6% | March 21 - Jul 22 |
 | Primary Education | Olympus High School Dehradun | 96.2% | March 19 - March 20 |
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amritanshtiwari108&show_icons=true&locale=en&layout=compact" alt="amritanshtiwari108" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amritanshtiwari108&show_icons=true&locale=en&layout=compact" alt="AmritanshTiwari2160" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amritanshtiwari108&show_icons=true&locale=en" alt="amritanshtiwari108" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amritanshtiwari108&show_icons=true&locale=en" alt="AmritanshTiwari2160" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshtiwari108&" alt="amritanshtiwari108" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshtiwari108&" alt="AmritanshTiwari2160" /></p>
 
 
