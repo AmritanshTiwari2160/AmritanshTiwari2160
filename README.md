@@ -2,7 +2,6 @@
 <h3 align="center">A Passionate Tech Enthusiast from India 🌏</h3>
 
 <img align="right" alt="Coding Vibes" Width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-<img align="right" alt="Let's Code"src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmritanshTiwari2160&label=Profile%20views&color=0e75b6&style=flat" alt="AmritanshTiwari2160" /> </p>
 
@@ -25,6 +24,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70">
 </p>
 
+<img align="right" alt="Let's Code" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="30" height="40">
 
 ## My LeetCode Profile :
 
