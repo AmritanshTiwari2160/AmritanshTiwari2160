@@ -26,7 +26,7 @@
 
 ## My LeetCode Profile :
 
-<p align="right"> <img src="https://leetcard.jacoblin.cool/AmritanshTiwari_108?theme=nord&font=Amaranth&ext=heatmap" alt="LeetCode Stats"> </p>
+<p align="left"> <img src="https://leetcard.jacoblin.cool/AmritanshTiwari_108?theme=nord&font=Amaranth&ext=heatmap" alt="LeetCode Stats"> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmritanshTiwari2160&show_icons=true&locale=en&layout=compact" alt="AmritanshTiwari2160" /></p>
 
