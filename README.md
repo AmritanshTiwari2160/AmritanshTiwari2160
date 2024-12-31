@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amritansh Tiwari</h1>
 <h3 align="center">A Passionate Tech Enthusiast from India 🌐</h3>
-<img align="right" alt="Coding" Width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+![LeetCode Stats](https://leetcard.jacoblin.cool/AmritanshTiwari108?theme=nord&font=Amaranth&ext=heatmap)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritanshtiwari108&label=Profile%20views&color=0e75b6&style=flat" alt="AmritanshTiwari2160" /> </p>
 
