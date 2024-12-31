@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amritansh Tiwari</h1>
 <h3 align="center">A Passionate Tech Enthusiast from India 🌐</h3>
+<p align="right">
+  <a href="https://rishavchanda.io">
+    <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead">
+  </a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritanshtiwari108&label=Profile%20views&color=0e75b6&style=flat" alt="AmritanshTiwari2160" /> </p>
 
@@ -17,13 +22,6 @@
 
 <p align="right"> <img src="https://leetcard.jacoblin.cool/AmritanshTiwari_108?theme=nord&font=Amaranth&ext=heatmap" alt="LeetCode Stats"> </p>
 
-<h2>📚 Academics  </h2>
-
-|-----------|-----------|-----------|-----------|-----------|
-| BTech (CSE) | GRAPHIC ERA HILL UNIVERSITY [DEHRADUN]  | 8.9 CGPA | 2022-26 |
-| Secondary Education (PCM) | Olympus High School, Dehradun | 92.6% | March 21 - Jul 22 |
-| Primary Education | Olympus High School Dehradun | 96.2% | March 19 - March 20 |
-<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmritanshTiwari2160&show_icons=true&locale=en&layout=compact" alt="AmritanshTiwari2160" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmritanshTiwari2160&show_icons=true&locale=en" alt="AmritanshTiwari2160" /></p>
