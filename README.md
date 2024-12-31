@@ -23,8 +23,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
 </p>
 
-<img align="right" alt="Let's Code" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="200">
-
 <h3 align="left">My LeetCode Profile :</h3>
 
 <p align="left"> <img src="https://leetcard.jacoblin.cool/AmritanshTiwari_108?theme=nord&font=Amaranth&ext=heatmap" alt="LeetCode Stats"> </p>
