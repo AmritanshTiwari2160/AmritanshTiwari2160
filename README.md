@@ -11,9 +11,6 @@
 <a href="https://linkedin.com/in/amritansh-tiwari-2864a524a" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a><a href="https://www.leetcode.com/AmritanshTiwari_108" target="blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="70"></a>
 </p>
 
-
-<img align="right" alt="Let's Code" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="30" height="40">
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70">
@@ -27,7 +24,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70">
 </p>
 
-## My LeetCode Profile :
+<h3 align="left">My LeetCode Profile :</h3>
 
 <p align="left"> <img src="https://leetcard.jacoblin.cool/AmritanshTiwari_108?theme=nord&font=Amaranth&ext=heatmap" alt="LeetCode Stats"> </p>
 
