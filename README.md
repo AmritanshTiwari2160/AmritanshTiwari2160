@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmritanshTiwari2160&label=Profile%20views&color=0e75b6&style=flat" alt="AmritanshTiwari2160" /> </p>
 
-📫 How to reach me **amritanshtiwari108@gmail.com**
+📫 How to reach me **amritansh2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/amritansh-tiwari-2864a524a" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"></a>
