@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amritansh Tiwari</h1>
-<h2 align="center">A Passionate UI/UX Designer from India 🌏</h2>
+<h2 align="center">
+  A Passionate <font color="red">UI/UX Designer</font> from India 🌏
+</h2>
 
-<img align="right" alt="Coding Vibes" width="400" 
-     src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" 
-     style="border-radius: 20px;">
+<img align="right" alt="Coding Vibes" Width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmritanshTiwari2160&label=Profile%20views&color=0e75b6&style=flat" alt="AmritanshTiwari2160" /> </p>
 
