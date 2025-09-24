@@ -32,9 +32,9 @@
 
 </p>
 
-<h3 align="left">Core Values & Expertise:</h3>
+<h3 align="left">Values I Add:</h3>
 
-<p><strong>UI/UX Design:</strong></p>
+<p><strong>📍UI/UX Design:</strong></p>
 <ul>
   <li>Prototyping interactive interfaces</li>
   <li>Wireframing and user flow design</li>
