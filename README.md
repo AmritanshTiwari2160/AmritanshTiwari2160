@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amritansh Tiwari</h1>
-<h2 align="center">A Passionate Tech Enthusiast from India 🌏</h2>
+<h2 align="center">A Passionate UI/UX Designer from India 🌏</h2>
 
 <img align="right" alt="Coding Vibes" Width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/amritansh-tiwari-2864a524a" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"></a>
+<a href="https://linkedin.com/in/amritansh-tiwari-2864a524a" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="100"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
