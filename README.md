@@ -36,7 +36,7 @@
 
 <p><strong>📍UI/UX Design:</strong></p>
 <ul>
-  <li>Creating high-fidelity Prototyping</li>
+  <li>Creating high-fidelity Prototypes</li>
   <li>Wireframing and user flow design</li>
   <li>User research and persona development</li>
   <li>Responsive and accessible design</li>
@@ -51,14 +51,14 @@
 
 <p><strong>📍UI/UX Development:</strong></p>
 <ul>
-  <li>Build intuitive UI interfaces with React, JavaScript</li>
+  <li>Build intuitive UI interfaces with React, JavaScript and Tailwind CSS.</li>
   <li>Craft responsive and interactive UI/UX components</li>
   <li>Integration with REST APIs and dynamic content</li>
 </ul>
 
 <p><strong>📍Multimedia & Video Editing:</strong></p>
 <ul>
-  <li>Editing videos as a hobby using DaVinci Resolve</li>
+  <li>Editing videos as a hobby, with a good hand at color grading</li>
   <li>Creating short clips, cinematic edits, and engaging visual content</li>
   <li>Each edit tells a story that you must have never seen before.</li>
 </ul>
@@ -68,5 +68,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmritanshTiwari2160&show_icons=true&locale=en&layout=compact" alt="AmritanshTiwari2160" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmritanshTiwari2160&show_icons=true&locale=en" alt="AmritanshTiwari2160" /></p>
-
-
