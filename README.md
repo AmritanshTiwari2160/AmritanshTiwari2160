@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/amritansh-tiwari-2864a524a" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"></a>
-<a href="[https://linkedin.com/in/amritansh-tiwari-2864a524a](https://www.youtube.com/channel/UCQtc_BsilfXLvlZDDvxSUgA)" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="60"></a>
+<a href="https://linkedin.com/in/amritansh-tiwari-2864a524a](https://www.youtube.com/channel/UCQtc_BsilfXLvlZDDvxSUgA" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="60"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
