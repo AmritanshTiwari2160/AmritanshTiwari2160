@@ -53,7 +53,7 @@
 
 <p><strong>📍UI/UX Development:</strong></p>
 <ul>
-  <li>Build intuitive UI interfaces with React, TypeScript and Tailwind CSS.</li>
+  <li>Build intuitive UI interfaces with ReactJS and Tailwind CSS.</li>
   <li>Craft responsive and interactive UI/UX components</li>
   <li>Integration with REST APIs and dynamic content</li>
 </ul>
