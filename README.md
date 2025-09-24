@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amritansh Tiwari</h1>
 <h2 align="center">
-  A Passionate <b>UI/UX Designer</b> from India 🌏
+  A Passionate UI/UX Designer from India 🌏
 </h2>
 
 <img align="right" alt="Coding Vibes" Width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
@@ -16,6 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="35" alt="Figma">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="60" alt="Photoshop">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" alt="React">
@@ -32,6 +33,7 @@
 </p>
 
 ### Key Insights :
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmritanshTiwari2160&show_icons=true&locale=en&layout=compact" alt="AmritanshTiwari2160" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmritanshTiwari2160&show_icons=true&locale=en" alt="AmritanshTiwari2160" /></p>
