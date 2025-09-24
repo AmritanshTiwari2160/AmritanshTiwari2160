@@ -47,6 +47,8 @@
   <li>Logo and branding design</li>
   <li>Flyers, posters, and marketing collateral</li>
   <li>Visual identity creation for digital and print</li>
+   <li>Expert use of color theory to evoke the right emotions, enhancing brand recognition</li>
+  <li>Strategic use of typography to improve readability, hierarchy, and overall aesthetic</li>
 </ul>
 
 <p><strong>📍UI/UX Development:</strong></p>
