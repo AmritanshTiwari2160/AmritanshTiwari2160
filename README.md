@@ -48,12 +48,12 @@
   <li>Flyers, posters, and marketing collateral</li>
   <li>Visual identity creation for digital and print</li>
    <li>Expert use of color theory to evoke the right emotions</li>
-  <li>Strategic use of typography to improve readability, hierarchy, and overall aesthetic</li>
+  <li>Strategic use of typography to improve readability & hierarchy</li>
 </ul>
 
 <p><strong>📍UI/UX Development:</strong></p>
 <ul>
-  <li>Build intuitive UI interfaces with React, JavaScript and Tailwind CSS.</li>
+  <li>Build intuitive UI interfaces with React, TypeScript and Tailwind CSS.</li>
   <li>Craft responsive and interactive UI/UX components</li>
   <li>Integration with REST APIs and dynamic content</li>
 </ul>
