@@ -36,25 +36,33 @@
 
 <p><strong>📍UI/UX Design:</strong></p>
 <ul>
-  <li>Prototyping interactive interfaces</li>
+  <li>Creating high-fidelity Prototyping</li>
   <li>Wireframing and user flow design</li>
   <li>User research and persona development</li>
   <li>Responsive and accessible design</li>
 </ul>
 
-<p><strong>Graphic Design:</strong></p>
+<p><strong>📍Graphic Design:</strong></p>
 <ul>
   <li>Logo and branding design</li>
   <li>Flyers, posters, and marketing collateral</li>
   <li>Visual identity creation for digital and print</li>
 </ul>
 
-<p><strong>Web Development:</strong></p>
+<p><strong>📍UI/UX Development:</strong></p>
 <ul>
-  <li>Frontend development with React, HTML, CSS, and JavaScript</li>
-  <li>Building responsive and interactive UI components</li>
+  <li>Build intuitive UI interfaces with React, JavaScript</li>
+  <li>Craft responsive and interactive UI/UX components</li>
   <li>Integration with REST APIs and dynamic content</li>
 </ul>
+
+<p><strong>📍Multimedia & Video Editing:</strong></p>
+<ul>
+  <li>Editing videos as a hobby using DaVinci Resolve</li>
+  <li>Creating short clips, cinematic edits, and engaging visual content</li>
+  <li>Each edit tells a story that you must have never seen before.</li>
+</ul>
+
 ### Key Insights :
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmritanshTiwari2160&show_icons=true&locale=en&layout=compact" alt="AmritanshTiwari2160" /></p>
