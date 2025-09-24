@@ -62,7 +62,7 @@
 <ul>
   <li>Editing videos as a hobby, with a good hand at color grading</li>
   <li>Creating short clips, cinematic edits, and engaging visual content</li>
-  <li>Each edit tells a unique story that you must have never seen before.</li>
+  <li>Each edit tells a unique story, that you must have never experienced before.</li>
 </ul>
 
 ### Key Insights :
