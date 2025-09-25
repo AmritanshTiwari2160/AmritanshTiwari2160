@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />Hi👋, I'm Amritansh Tiwari <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /></h1>                    
 <h2 align="center">
-  A Passionate UI/UX Designer from India 🌏
+  A Passionate UI/UX Designer & Developer from India 🌏
 </h2>
 
 <img align="right" alt="Coding Vibes" Width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
