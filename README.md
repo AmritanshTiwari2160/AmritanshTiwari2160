@@ -28,7 +28,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" alt="Python">
   <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="55" alt="PL/SQL">
 
-<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="55" alt="Java">
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="40" alt="Java">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="80" alt="Spring Boot">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" alt="VS">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="50" alt="Linux">
