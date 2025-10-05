@@ -26,7 +26,7 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="60" alt="CSS">
   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="60" alt="Tailwind CSS">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" alt="Python">
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="60" alt="MySQL">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Oracle_Corporation_logo.svg" width="70" alt="Oracle PL/SQL">
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="60" alt="Java">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="60" alt="Spring Boot">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" alt="VS">
