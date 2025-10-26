@@ -54,19 +54,12 @@
   <li>Strategic use of typography to improve readability & hierarchy</li>
 </ul>
 
-<p><strong>📍UI/UX Development:</strong></p>
+<p><strong>📍Python, AI/ML & Django/Spring Boot Applications:</strong></p>
 <ul>
-  <li>Build intuitive UI interfaces with ReactJS and Tailwind CSS.</li>
-  <li>Craft responsive and interactive UI/UX components</li>
-  <li>Integration with REST APIs and dynamic content</li>
-</ul>
-
-<p><strong>📍React & Spring Boot Applications:</strong></p>
-<ul>
-  <li>Develop full-stack web applications using React for interface and Spring Boot in the backend.</li>
-  <li>Implement robust backend logic and RESTful APIs connected with PL/SQL databases.</li>
-  <li>Ensure scalability, security, and maintainability through proper architecture and design patterns.</li>
-  <li>Optimize database queries and interactions to achieve high performance and reliability.</li>
+  <li>Develop intelligent, full-stack web applications leveraging Python and Django for backend logic and Spring Boot for scalable, secure services.</li>
+  <li>Implement robust AI/ML models to enhance application functionality and personalization.</li>
+  <li>Design and maintain efficient database systems using PL/SQL, ensuring high performance and reliability.</li>
+  <li>Follow best practices and design patterns to build maintainable, scalable, and robust systems.</li>
 </ul>
 
 <p><strong>📍Multimedia & Video Editing:</strong></p>
